@@ -29,6 +29,7 @@
 			<Template>ТестЗаметкиВОдинПараграф</Template>
 			<Template>ТестЗаметкиВНесколькоПараграфов</Template>
 			<Template>ТестТекстаРаздела</Template>
+			<Template>ТестТекстаРазделаСТекстом</Template>
 		</ChildObjects>
 	</ExternalDataProcessor>
 </MetaDataObject>
