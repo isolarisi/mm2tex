@@ -20,14 +20,15 @@
 				</v8:item>
 			</Synonym>
 			<Comment/>
-			<DefaultForm>ExternalDataProcessor.ЮнитТесты.Form.Форма</DefaultForm>
+			<DefaultForm>ExternalDataProcessor.ЮнитТесты.Form.УпрФорма</DefaultForm>
 			<AuxiliaryForm/>
 		</Properties>
 		<ChildObjects>
-			<Form>Форма</Form>
+			<Form>УпрФорма</Form>
 			<Template>ТестТитульногоЛиста</Template>
 			<Template>ТестЗаметкиВОдинПараграф</Template>
 			<Template>ТестЗаметкиВНесколькоПараграфов</Template>
+			<Template>ТестТекстаРаздела</Template>
 		</ChildObjects>
 	</ExternalDataProcessor>
 </MetaDataObject>
