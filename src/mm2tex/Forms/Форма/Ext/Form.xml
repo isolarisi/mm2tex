@@ -9,6 +9,11 @@
 			<ContextMenu name="ИмяФайлаКонтекстноеМеню" id="2"/>
 			<ExtendedTooltip name="ИмяФайлаРасширеннаяПодсказка" id="3"/>
 		</InputField>
+		<InputField name="КаталогВыгрузки" id="6">
+			<DataPath>Объект.КаталогВыгрузки</DataPath>
+			<ContextMenu name="КаталогВыгрузкиКонтекстноеМеню" id="7"/>
+			<ExtendedTooltip name="КаталогВыгрузкиРасширеннаяПодсказка" id="8"/>
+		</InputField>
 		<Button name="ВыполнитьПреобразование" id="4">
 			<Type>UsualButton</Type>
 			<CommandName>Form.Command.ВыполнитьПреобразование</CommandName>
@@ -22,6 +27,7 @@
 			</Type>
 			<MainAttribute>true</MainAttribute>
 			<Save>
+				<Field>Объект.КаталогВыгрузки</Field>
 				<Field>Объект.ИмяФайла</Field>
 			</Save>
 		</Attribute>
