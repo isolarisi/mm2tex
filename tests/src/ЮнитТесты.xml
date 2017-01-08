@@ -30,6 +30,9 @@
 			<Template>ТестЗаметкиВНесколькоПараграфов</Template>
 			<Template>ТестТекстаРаздела</Template>
 			<Template>ТестТекстаРазделаСТекстом</Template>
+			<Template>titul</Template>
+			<Template>chapter01</Template>
+			<Template>chapter02</Template>
 		</ChildObjects>
 	</ExternalDataProcessor>
 </MetaDataObject>
