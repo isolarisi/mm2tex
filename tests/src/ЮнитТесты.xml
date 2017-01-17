@@ -33,6 +33,9 @@
 			<Template>titul</Template>
 			<Template>chapter01</Template>
 			<Template>chapter02</Template>
+			<Template>ТестЗаметкиВОдинПараграфЖирныйТекст</Template>
+			<Template>ТекстФайлаДоПреобразованияHTML</Template>
+			<Template>ТекстФайлаПослеПреобразованияHTML</Template>
 		</ChildObjects>
 	</ExternalDataProcessor>
 </MetaDataObject>
